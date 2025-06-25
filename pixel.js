@@ -1,3 +1,5 @@
+console.log("✅ Vercel file found and running");
+
 const waitForInputs = setInterval(() => {
   const emailInput = document.querySelector('input[name="email"]');
   const phoneInput = document.querySelector('input[name="phone"]');
